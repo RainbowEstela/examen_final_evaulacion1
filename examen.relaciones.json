@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b53"
+  },
+  "id": 1,
+  "idAmigoInvisible": 4,
+  "idParticipante": 15,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b54"
+  },
+  "id": 2,
+  "idAmigoInvisible": 1,
+  "idParticipante": 18,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b55"
+  },
+  "id": 3,
+  "idAmigoInvisible": 2,
+  "idParticipante": 17,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b56"
+  },
+  "id": 4,
+  "idAmigoInvisible": 3,
+  "idParticipante": 1,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b57"
+  },
+  "id": 5,
+  "idAmigoInvisible": 5,
+  "idParticipante": 19,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b58"
+  },
+  "id": 6,
+  "idAmigoInvisible": 4,
+  "idParticipante": 2,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b59"
+  },
+  "id": 7,
+  "idAmigoInvisible": 5,
+  "idParticipante": 15,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b5b"
+  },
+  "id": 9,
+  "idAmigoInvisible": 3,
+  "idParticipante": 18,
+  "estado": "comprado"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b5c"
+  },
+  "id": 10,
+  "idAmigoInvisible": 2,
+  "idParticipante": 10,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b5d"
+  },
+  "id": 11,
+  "idAmigoInvisible": 4,
+  "idParticipante": 5,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b5e"
+  },
+  "id": 12,
+  "idAmigoInvisible": 1,
+  "idParticipante": 19,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b5f"
+  },
+  "id": 13,
+  "idAmigoInvisible": 2,
+  "idParticipante": 15,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b60"
+  },
+  "id": 14,
+  "idAmigoInvisible": 3,
+  "idParticipante": 16,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b61"
+  },
+  "id": 15,
+  "idAmigoInvisible": 5,
+  "idParticipante": 1,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b62"
+  },
+  "id": 16,
+  "idAmigoInvisible": 1,
+  "idParticipante": 8,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b63"
+  },
+  "id": 17,
+  "idAmigoInvisible": 1,
+  "idParticipante": 11,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b64"
+  },
+  "id": 18,
+  "idAmigoInvisible": 4,
+  "idParticipante": 4,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b65"
+  },
+  "id": 19,
+  "idAmigoInvisible": 4,
+  "idParticipante": 13,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578995f620c80ed08335b66"
+  },
+  "id": 20,
+  "idAmigoInvisible": 1,
+  "idParticipante": 18,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578af60b49240fd770806f6"
+  },
+  "idAmigoInvisible": 3,
+  "idParticipante": 23,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578b647b49240fd770806f8"
+  },
+  "idAmigoInvisible": 7,
+  "idParticipante": 25,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578b65b09d1a3536e0c4156"
+  },
+  "idAmigoInvisible": 7,
+  "idParticipante": 26,
+  "estado": "no sabe qué regalar"
+},
+{
+  "_id": {
+    "$oid": "6578b66ab49240fd770806fa"
+  },
+  "idAmigoInvisible": 7,
+  "idParticipante": 27,
+  "estado": "comprado"
+}]

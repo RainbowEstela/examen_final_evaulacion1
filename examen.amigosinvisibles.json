@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "6578811d620c80ed08335b49"
+  },
+  "id": 1,
+  "nombre": "Cookie Dough - Double",
+  "estado": "entregado",
+  "maximoDinero": 41,
+  "fecha": "2022-01-01",
+  "lugar": "mi casa",
+  "observaciones": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+  "emoji": "&#128560;"
+},
+{
+  "_id": {
+    "$oid": "6578811d620c80ed08335b4a"
+  },
+  "id": 2,
+  "nombre": "eso",
+  "estado": "entregado",
+  "maximoDinero": 28,
+  "fecha": "2023-12-30",
+  "lugar": "mi casa modificada",
+  "observaciones": "observacion",
+  "emoji": "😰"
+},
+{
+  "_id": {
+    "$oid": "6578811d620c80ed08335b4b"
+  },
+  "id": 3,
+  "nombre": "Veal - Slab Bacon",
+  "estado": "activo",
+  "maximoDinero": 29,
+  "fecha": "2023-12-31",
+  "lugar": "mi casa",
+  "observaciones": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+  "emoji": "&#128560;"
+},
+{
+  "_id": {
+    "$oid": "6578811d620c80ed08335b4c"
+  },
+  "id": 4,
+  "nombre": "Bread - White Mini Epi",
+  "estado": "activo",
+  "maximoDinero": 25,
+  "fecha": "2023-12-31",
+  "lugar": "mi casa",
+  "observaciones": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+  "emoji": "&#128560;"
+},
+{
+  "_id": {
+    "$oid": "6578811d620c80ed08335b4d"
+  },
+  "id": 5,
+  "nombre": "Pastrami",
+  "estado": "activo",
+  "maximoDinero": 23,
+  "fecha": "2023-12-31",
+  "lugar": "mi casa",
+  "observaciones": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+  "emoji": "&#128560;"
+},
+{
+  "_id": {
+    "$oid": "65788ee9b49240fd770806f3"
+  },
+  "id": 7,
+  "nombre": "otro regalo",
+  "estado": "comprado",
+  "maximoDinero": 12,
+  "fecha": "2023-12-13",
+  "lugar": "ies jaroso",
+  "observaciones": "nos merecemos un descanso",
+  "emoji": "❕"
+},
+{
+  "_id": {
+    "$oid": "6578bb1f09d1a3536e0c4157"
+  },
+  "id": 8,
+  "nombre": "ergerg",
+  "estado": "activo",
+  "maximoDinero": 7,
+  "fecha": "2023-12-01",
+  "lugar": "wgerge",
+  "observaciones": "ergege",
+  "emoji": "&#127466;"
+},
+{
+  "_id": {
+    "$oid": "6578bb3609d1a3536e0c4158"
+  },
+  "id": 9,
+  "nombre": "tjyjy",
+  "estado": "activo",
+  "maximoDinero": 999,
+  "fecha": "2023-12-30",
+  "lugar": "ytjtj",
+  "observaciones": "yjtjy",
+  "emoji": "&#127905;"
+}]
